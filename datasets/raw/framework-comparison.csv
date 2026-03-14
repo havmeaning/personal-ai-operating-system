@@ -1,0 +1,8 @@
+Framework,Type,Maturity,Knowledge Management,Orchestration,Privacy,EU AI Act Readiness,Deployable Today,Notes
+AgentOS (arXiv:2603.08938),Academic Proposal,Proposal stage,Personal Knowledge Graph + Sequential Pattern Mining,Tri-Agent kernel,High (local-first design),Unverified,No,Strongest conceptual PKG model; not yet implemented
+Rutgers AIOS,Academic Research,Research prototype,Limited,LLM kernel scheduling,Medium,Unverified,No,Only framework with published empirical benchmarks (2.1x throughput)
+LangGraph,Production framework,Stable (v1.0+),None native,Stateful graph runtime + human-in-the-loop,Medium (API-based),Medium,Yes,Production-grade; persistent checkpoints; modular
+MemOS,Research / emerging,Emerging,Hierarchical long-term memory (LongMemEval),Limited orchestration,Medium,Unverified,Partial,Leads on memory coherence benchmarks
+PAIOS Modular Hybrid,Hybrid implementation,Operational,Obsidian PKG + vector storage,n8n + LangGraph,High (local-first),High,Yes,"1.5-2.5 hrs/week productivity gain; EU AI Act ready; EUR 54-80/month"
+PwC Agent OS,Enterprise platform,Enterprise-grade,Enterprise knowledge base,Enterprise workflow orchestration,Low (cloud-heavy),High (enterprise focus),Yes (enterprise),High vendor lock-in; not suitable for personal scale
+Agno,Enterprise platform,Enterprise-grade,Enterprise scale,Enterprise orchestration,Low (cloud-heavy),Medium,Yes (enterprise),Enterprise governance focus; reduced personal privacy

@@ -14,7 +14,7 @@ Comparative evaluation of personal-scale AI operating system architectures.
 
 Read the paper:
 
-/white-paper/agentos-frameworks-2026.md
+white-paper/agentos-frameworks-2026.md
 
 ---
 
