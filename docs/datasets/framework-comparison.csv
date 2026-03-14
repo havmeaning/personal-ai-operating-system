@@ -1,1 +1,10 @@
-
+framework,memory_score,autonomy_score,resource_score,tool_score,multiagent_score,persistence_score,dx_score,community_score,overall_score,notes
+LangGraph,9,9,7,9,8,9,7,9,8.6,"Graph-based orchestration; fine-grained HITL; best memory + control balance for PAIOS"
+AutoGen,7,8,7,8,9,7,8,9,8.0,"Conversation-centric multi-agent; strong code execution; mature community"
+CrewAI,7,7,8,8,9,7,9,8,7.9,"High-level role-based crews; fast onboarding; less granular control"
+Haystack,9,6,7,9,6,8,8,8,7.6,"Best-in-class RAG and document pipelines; weaker autonomous agent loop"
+MemOS,9,7,8,6,7,10,6,6,7.4,"Hierarchical long-term memory; leads on LongMemEval; memory-specialist layer"
+AIOS (Rutgers),7,9,6,7,8,7,5,7,7.1,"LLM-kernel scheduling; 2.1x throughput gain; academic/research stage"
+OpenAI Swarm,4,6,9,7,7,3,9,6,6.4,"Minimal stateless handoffs; experimental; tightly coupled to OpenAI API"
+AgentOS (arXiv 2603.08938),9,8,5,6,8,8,3,4,6.4,"Strongest conceptual PKG model; Tri-Agent kernel; proposal stage only (March 2026)"
+PAIOS Modular Hybrid,9,9,7,9,9,9,7,7,8.5,"Read AI + n8n/LangGraph + Obsidian; only fully deployable solution today; 1.5-2.5 hrs/week productivity gain"
