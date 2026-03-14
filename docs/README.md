@@ -18,6 +18,16 @@ Read the paper:
 
 ---
 
+## Medium Article
+
+A Medium-ready article transforming the white paper into a think-piece for general readers.
+
+Read the article:
+
+medium-article.md
+
+---
+
 ## Research Areas
 
 - Personal AI Operating Systems
