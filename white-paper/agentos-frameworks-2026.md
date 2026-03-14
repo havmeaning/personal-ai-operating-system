@@ -5,22 +5,22 @@ Sheldon Howard
 March 2026
 
 1. Executive Summary
-This case study compares seven AgentOS-related frameworks available in March 2026 across maturity, philosophy, knowledge management, orchestration, privacy, regulatory alignment, and suitability for individual knowledge workers. The analysis identifies a clear divide between conceptual academic visions and production-ready modular tools. The PAIOS modular hybrid (Read Al + n8n/LangGraph + Obsidian local-first) emerges as the only fully deployable solution that delivers immediate productivity gains while maintaining high privacy and EU Al Act readiness ahead of the 2 August 2026 enforcement deadline.
+This case study compares seven AgentOS-related frameworks available in March 2026 across maturity, philosophy, knowledge management, orchestration, privacy, regulatory alignment, and suitability for individual knowledge workers. The analysis identifies a clear divide between conceptual academic visions and production-ready modular tools. The PAIOS modular hybrid (Read AI + n8n/LangGraph + Obsidian local-first) emerges as the only fully deployable solution that delivers immediate productivity gains while maintaining high privacy and EU AI Act readiness ahead of the 2 August 2026 enforcement deadline.
 2. Context and Background
-By early 2026 the term "AgentOS" encompasses both ambitious academic proposals that treat the LLM as an operating-system kernel and practical orchestration frameworks used in real-world personal knowledge systems. This evaluation was performed as part of refining a six-layer Personal Al Operating System (PAIOS) blueprint designed for highperformance knowledge workers operating in regulated European environments.
+By early 2026 the term "AgentOS" encompasses both ambitious academic proposals that treat the LLM as an operating-system kernel and practical orchestration frameworks used in real-world personal knowledge systems. This evaluation was performed as part of refining a six-layer Personal AI Operating System (PAIOS) blueprint designed for high-performance knowledge workers operating in regulated European environments.
 3. Research Method
-A structured comparison matrix evaluated each framework on eight dimensions using only documented sources: arXiv preprints, official product release notes, published benchmarks, and official EU Al Act timelines. Selection criteria emphasised relevance to personal-scale deployment rather than enterprise-only solutions. No new primary experiments were conducted; the assessment relied on architectural specifications, empirical metrics, and regulatory mappings available as of 14 March 2026.
+A structured comparison matrix evaluated each framework on eight dimensions using only documented sources: arXiv preprints, official product release notes, published benchmarks, and official EU AI Act timelines. Selection criteria emphasised relevance to personal-scale deployment rather than enterprise-only solutions. No new primary experiments were conducted; the assessment relied on architectural specifications, empirical metrics, and regulatory mappings available as of 14 March 2026.
 4. Key Findings
     • AgentOS (arXiv 2603.08938) offers the strongest conceptual model of Personal Knowledge Graphs with Sequential Pattern Mining and a Tri-Agent kernel but remains at the proposal stage.
-    • Rutgers AIOS is the only framework with published empirical performance data (2 .1>< throughput improvement via LLM-kernel scheduling).
+    • Rutgers AIOS is the only framework with published empirical performance data (2.1× throughput improvement via LLM-kernel scheduling).
     • LangGraph provides production-grade stateful workflows with persistent checkpoints and human-in-the-loop controls.
     • MemOS leads in hierarchical long-term memory coherence on targeted LongMemEval subtasks.
-    • PAIOS modular hybrid is the sole implementation already operational today, integrating Read Al capture, n8n orchestration, and Obsidian storage to produce documented early productivity gains of 1.5—2.5 hours per week.
+    • PAIOS modular hybrid is the sole implementation already operational today, integrating Read AI capture, n8n orchestration, and Obsidian storage to produce documented early productivity gains of 1.5—2.5 hours per week.
     • Enterprise offerings (PwC Agent OS, Agno) prioritise governance and scale at the cost of higher vendor lock-in and reduced local-first privacy.
 5. System-Level Observations
 All frameworks display reinforcing adoption loops (richer data more capable agents faster adoption) consistently tempered by balancing forces (cognitive oversight burden, regulatory constraints, and project failure rates). The most robust structural pattern is hybrid local-first storage paired with selective cloud reasoning, which decouples privacy and compliance from performance. Absence of a universal PKG export standard remains the primary systemic bottleneck across every framework examined.
 6. Implications
-For individual knowledge workers the PAIOS hybrid offers the optimal balance of immediate usability and regulatory resilience. Organisations can reduce the documented >40 % agentic-project cancellation risk by adopting incremental modular layering and embedded cognitive-audit mechanisms. At the policy level, the 2 August 2026 EU Al Act deadline creates a narrow window in which national sandboxes and open interoperability standards can accelerate European adoption and data sovereignty.
+For individual knowledge workers the PAIOS hybrid offers the optimal balance of immediate usability and regulatory resilience. Organisations can reduce the documented >40 % agentic-project cancellation risk by adopting incremental modular layering and embedded cognitive-audit mechanisms. At the policy level, the 2 August 2026 EU AI Act deadline creates a narrow window in which national sandboxes and open interoperability standards can accelerate European adoption and data sovereignty.
 7. Limitations
 The evaluation is a snapshot based on documentation available in March 2026 and does not incorporate longitudinal user trials or cross-framework performance benchmarks.
 Empirical evidence on long-term cognitive impacts and intent-alignment stability remains limited to cross-sectional surveys. Future convergence between academic proposals and production frameworks may shift relative rankings.
@@ -31,11 +31,11 @@ Reusable Research Workflow
 Meta-Method: Repeatable Process for Analysing Complex Topics and Designing SocioTechnical Systems
 (Derived directly from the reasoning sequence observed in the full PAIOS research thread)
 Step 1 — Data Collection
-Begin with a precise initial design or analysis request. Apply successive specialised Al roles (researcher, systems thinker, verification engine, strategic generator, policy analyst, intelligence analyst, information architect) to gather multi-perspective material without external search when the thread is self-contained.
+Begin with a precise initial design or analysis request. Apply successive specialised AI roles (researcher, systems thinker, verification engine, strategic generator, policy analyst, intelligence analyst, information architect) to gather multi-perspective material without external search when the thread is self-contained.
 Step 2 — Fact Extraction
 Use verification and knowledge-extraction roles to separate claims from evidence. Build structured knowledge objects, evidence maps, and verification tables that distinguish empirical data, expert opinion, and speculation.
 Step 3 — Timeline Construction
-Identify all release dates, regulatory deadlines, and publication events (e.g., Read Al Feb 2026, AgentOS arXiv 9 Mar 2026, EU Al Act 2 Aug 2026) to map temporal dynamics and critical windows.
+Identify all release dates, regulatory deadlines, and publication events (e.g., Read AI Feb 2026, AgentOS arXiv 9 Mar 2026, EU AI Act 2 Aug 2026) to map temporal dynamics and critical windows.
 Step 4 — Entity Mapping
 Create system maps listing actors, tools, institutions, and regulatory bodies, then visualise feedback loops, incentives, constraints, and leverage points.
 Step 5 — Pattern Recognition
