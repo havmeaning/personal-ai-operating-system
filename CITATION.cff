@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it using the metadata below."
+type: report
+title: "AgentOS Frameworks in 2026: A Comparative Evaluation for Personal-Scale Knowledge Work"
+authors:
+  - family-names: Howard
+    given-names: Sheldon
+date-released: "2026-03-01"
+year: 2026
+url: "https://github.com/havmeaning/personal-ai-operating-system"
+repository-code: "https://github.com/havmeaning/personal-ai-operating-system"
+license: MIT
+abstract: >
+  A comparative evaluation of AgentOS (Agent Operating System) frameworks as
+  applied to personal-scale knowledge work. This study examines how modern AI
+  agent orchestration frameworks can serve as foundational infrastructure for a
+  Personal AI Operating System (PAIOS) — a unified cognitive workspace where
+  autonomous agents assist with memory, planning, research, and decision-making.
+keywords:
+  - artificial intelligence
+  - agent operating systems
+  - personal AI
+  - knowledge work
+  - AI orchestration
+  - large language models
+  - autonomous agents
+  - cognitive architectures
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Howard
+      given-names: Sheldon
+  title: "AgentOS Frameworks in 2026: A Comparative Evaluation for Personal-Scale Knowledge Work"
+  year: 2026
+  month: 3
+  institution:
+    name: "Independent Research"
+  url: "https://github.com/havmeaning/personal-ai-operating-system"
