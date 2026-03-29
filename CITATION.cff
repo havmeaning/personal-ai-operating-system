@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: software
+authors:
+  - family-names: Howard
+    given-names: Sheldon
+    alias: havmeaning
+title: "AgentOS Frameworks in 2026: A Comparative Evaluation for Personal-Scale Knowledge Work"
+version: "4.0"
+date-released: 2026-03-14
+url: "https://github.com/havmeaning/personal-ai-operating-system"
+repository-code: "https://github.com/havmeaning/personal-ai-operating-system"
+license: MIT
+abstract: >
+  A structured comparative evaluation of seven AgentOS frameworks available in March 2026,
+  assessed across maturity, philosophy, knowledge management, orchestration, privacy,
+  regulatory alignment (EU AI Act), and suitability for individual knowledge workers.
+  The PAIOS modular hybrid emerges as the sole immediately deployable solution combining
+  productivity gains with high privacy and EU AI Act readiness.
+keywords:
+  - personal AI operating system
+  - PAIOS
+  - AgentOS
+  - knowledge work
+  - AI governance
+  - EU AI Act
+  - LangGraph
+  - n8n
+  - Obsidian
+  - MemOS
+  - SOUL format
