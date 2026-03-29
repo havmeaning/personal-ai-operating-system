@@ -27,9 +27,18 @@ Read the paper:
 
 ---
 
+## Tweet Thread
+
+A 12-tweet research thread based on the white paper:
+
+[threads/agentos-tweet-thread.md](../threads/agentos-tweet-thread.md)
+
+---
+
 ## Repository Structure
 
 white-paper/ — primary research paper  
+threads/ — social content derived from research  
 docs/ — documentation and notes  
 datasets/ — comparison datasets  
 references/ — bibliography and sources  
