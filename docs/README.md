@@ -1,36 +1,29 @@
-# Personal AI Operating System (PAIOS)
+# P.Ai.O.S. Documentation Index
 
-Research repository exploring the architecture of Personal AI Operating Systems and AgentOS frameworks.
+P.Ai.O.S. is a documented personal AI operating method for converting fragmented information and lived activity into structured decisions, governed evidence, executable actions, and reusable reports.
 
-Author: Sheldon Howard  
-Date: March 2026
+## Core Documents
 
----
+- [Operational phases](OPERATIONAL_PHASES.md)
+- [Report system](REPORT_SYSTEM.md)
+- [Evidence ledger](EVIDENCE_LEDGER.md)
+- [Validation protocol](VALIDATION_PROTOCOL.md)
+- [Roadmap](ROADMAP.md)
 
-## White Paper
+## Reports
 
-AgentOS Frameworks in 2026  
-Comparative evaluation of personal-scale AI operating system architectures.
+- [Final archive reconstruction summary](../reports/PAiOS_Final_Archive_Reconstruction_Report_v1.0.md)
+- [Public operational report archive summary](../reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md)
 
-Read the paper:
+The full mission, field, and after-action PDF is intentionally not published in this public repository because privacy review found protected personal material.
 
-/white-paper/agentos-frameworks-2026.md
+## Research
 
----
+- [Partial archive timeline](../research/archive_timeline.md)
+- [White paper material](white-paper/A%20Comparative%20Evaluation%20for%20Personal-Scale%20Knowledge%20Work)
 
-## Research Areas
+## Status
 
-- Personal AI Operating Systems
-- Agent orchestration frameworks
-- Knowledge work automation
-- Human–AI cognitive architectures
+Status: Ready for controlled external pilot.
 
----
-
-## Repository Structure
-
-white-paper/ — primary research paper  
-docs/ — documentation and notes  
-datasets/ — comparison datasets  
-references/ — bibliography and sources  
-figures/ — diagrams and architecture visuals
+Founder-use is extensively documented; external transfer is now being tested. This repository does not claim broad transferability, causal effectiveness, commercial validation, enterprise validation, or guaranteed outcomes.
