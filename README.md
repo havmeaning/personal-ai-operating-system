@@ -4,6 +4,16 @@ P.Ai.O.S. is a documented personal AI operating method for converting fragmented
 
 > Recommended public claim: P.Ai.O.S. is a documented operating method for converting fragmented information and lived activity into structured decisions, governed evidence, and reusable action reports. Founder-use is extensively documented; external transfer is now being tested.
 
+## Start Here
+
+Read [`START_HERE.md`](START_HERE.md), then inspect the ten-minute worked example:
+
+- [`examples/WORKED_EXAMPLE_001.md`](examples/WORKED_EXAMPLE_001.md)
+
+Primary call to action:
+
+- [Apply to participate in the controlled P.Ai.O.S. pilot](PILOT_APPLICATION.md)
+
 ## Current Status
 
 Status: Ready for controlled external pilot.
@@ -27,18 +37,30 @@ Workflow -> Doctrine -> Live Mission -> Platform Formation -> Ecosystem Activati
 
 Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctrine
 
+## Proof System
+
+| Need | Start with |
+|---|---|
+| Understand the method | [Start here](START_HERE.md) |
+| See the method in action | [Worked example](examples/WORKED_EXAMPLE_001.md) |
+| Check public claims | [Public claims register](evidence/PUBLIC_CLAIMS_REGISTER.csv) |
+| Check supporting evidence | [Evidence ledger](evidence/EVIDENCE_LEDGER.md) |
+| Review limitations | [Limitations](docs/LIMITATIONS.md) |
+| Test external transfer | [Pilot 001 protocol](validation/PILOT_001_PROTOCOL.md) |
+| Use the method | [Templates](templates/) |
+
 ## Key Evidence Links
 
 - [Operational phases](docs/OPERATIONAL_PHASES.md)
-- [Final archive reconstruction summary](reports/PAiOS_Final_Archive_Reconstruction_Report_v1.0.md)
+- [Operating loop](docs/OPERATING_LOOP.md)
 - [Report-system document](docs/REPORT_SYSTEM.md)
-- [Public operational report archive summary](reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md)
+- [Final archive reconstruction summary](reports/PAiOS_Final_Archive_Reconstruction_Report_v1.0.md)
 - [Marketing intelligence report](reports/PAiOS_Ecosystem_Performance_Marketing_Intelligence_Report_v1.3.md)
-- [Archive timeline research note](research/archive_timeline.md)
-- [Validation protocol](docs/VALIDATION_PROTOCOL.md)
-- [Evidence ledger](docs/EVIDENCE_LEDGER.md)
-- [Architecture](docs/white-paper/A%20Comparative%20Evaluation%20for%20Personal-Scale%20Knowledge%20Work)
-- [Roadmap](docs/ROADMAP.md)
+- [Report index](reports/REPORT_INDEX.md)
+- [Source manifest](evidence/SOURCE_MANIFEST.csv)
+- [Founder case study 000](case-studies/CASE_STUDY_000_FOUNDER_USE.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
 
 ## Operational-Window Clarification
 

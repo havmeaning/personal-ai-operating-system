@@ -9,6 +9,10 @@ Until reviewed, this repository should treat the existing license text as preser
 Recommended follow-up:
 
 - distinguish software code, if any, from written methodology and research materials
+- distinguish documentation license from software license
+- clarify trademark and brand usage
+- clarify commercial methodology usage
+- document third-party asset treatment
 - decide whether separate licenses are needed for code and documentation
 - update repository notices only after legal or owner review
 - avoid combining contradictory permissions and restrictions in the same license file
