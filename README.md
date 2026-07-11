@@ -33,12 +33,12 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 - [Final archive reconstruction summary](reports/PAiOS_Final_Archive_Reconstruction_Report_v1.0.md)
 - [Report-system document](docs/REPORT_SYSTEM.md)
 - [Public operational report archive summary](reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md)
+- [Marketing intelligence report](reports/PAiOS_Ecosystem_Performance_Marketing_Intelligence_Report_v1.3.md)
 - [Archive timeline research note](research/archive_timeline.md)
 - [Validation protocol](docs/VALIDATION_PROTOCOL.md)
 - [Evidence ledger](docs/EVIDENCE_LEDGER.md)
 - [Architecture](docs/white-paper/A%20Comparative%20Evaluation%20for%20Personal-Scale%20Knowledge%20Work)
 - [Roadmap](docs/ROADMAP.md)
-- Marketing-performance report: pending source file verification; no marketing metrics are asserted here without the canonical report.
 
 ## Operational-Window Clarification
 

@@ -10,7 +10,7 @@ This ledger tracks public evidence classes and validation boundaries. It is not 
 | Operational reports | `reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md` | [V] | Full PDF is withheld from public repo due to sensitive content. |
 | Partial archive timeline | `research/archive_timeline.md` | [V] | Covers only shards 000-009, about 32% of the earlier shard set. |
 | External validation | `docs/VALIDATION_PROTOCOL.md` | [P] | Controlled external pilot not yet completed. |
-| Marketing performance | Pending canonical source file | [P] | No metrics are asserted until the canonical report is available. |
+| Marketing performance | `reports/PAiOS_Ecosystem_Performance_Marketing_Intelligence_Report_v1.3.md` | [V]/[V-OCR]/[D]/[A] | Metrics are platform-specific and date-bounded; impressions, views, streams, and plays must not be summed. |
 
 ## Evidence Labels
 

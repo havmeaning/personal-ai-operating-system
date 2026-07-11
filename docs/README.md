@@ -14,6 +14,7 @@ P.Ai.O.S. is a documented personal AI operating method for converting fragmented
 
 - [Final archive reconstruction summary](../reports/PAiOS_Final_Archive_Reconstruction_Report_v1.0.md)
 - [Public operational report archive summary](../reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md)
+- [Marketing intelligence report](../reports/PAiOS_Ecosystem_Performance_Marketing_Intelligence_Report_v1.3.md)
 
 The full mission, field, and after-action PDF is intentionally not published in this public repository because privacy review found protected personal material.
 
