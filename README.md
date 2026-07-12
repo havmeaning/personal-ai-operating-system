@@ -48,6 +48,7 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 | Review limitations | [Limitations](docs/LIMITATIONS.md) |
 | Test external transfer | [Pilot 001 protocol](validation/PILOT_001_PROTOCOL.md) |
 | Use the method | [Templates](templates/) |
+| Download the product bundle | [Product bundle](product/) |
 
 ## Key Evidence Links
 
@@ -59,6 +60,7 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 - [Report index](reports/REPORT_INDEX.md)
 - [Source manifest](evidence/SOURCE_MANIFEST.csv)
 - [Founder case study 000](case-studies/CASE_STUDY_000_FOUNDER_USE.md)
+- [Product bundle](product/)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap](ROADMAP.md)
 

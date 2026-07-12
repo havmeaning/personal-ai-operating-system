@@ -4,3 +4,4 @@ SRC-002,Marketing Intelligence Report,v1.3,2026-07-12,Marketing performance,Publ
 SRC-003,Operational Report Archive Public Summary,v1.0,2026-07-12,Report-system evidence,Public,reports/SHowardAI_Mission_Field_After_Action_Reports_Public_Summary.md,Markdown summary,B6119CC57D332DEF3C1D8E2E417112E88BB9F55D6940491864EE638937126115,private source PDF,Public-safe summary
 SRC-004,Partial Archive Timeline,v1.0-public,2026-07-12,Research note,Public,research/archive_timeline.md,Markdown summary,62B59A756BE8F14E809A5E2003CD30E98B4B7283FE9CACBD78A1F8F187735278,private source timeline,Public-safe summary
 SRC-005,Private source archive,controlled,2023-2026,Source archive,Private,not published,Private records,not published,none,Protected
+SRC-006,P.Ai.O.S. Complete Operator System Bundle,complete,2026-05-24,Product artifact,Public,product/P_Ai_O_S_Complete_Operator_System.zip,ZIP bundle,B68FDF37080C171605A745C4A851ED7D0B3EDB5F3C74C287DA5702E8150E6FF9,none,Public product bundle
