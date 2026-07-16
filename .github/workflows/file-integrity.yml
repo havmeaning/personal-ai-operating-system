@@ -1,0 +1,21 @@
+name: File integrity
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  required-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required proof-system files
+        run: |
+          test -f README.md
+          test -f START_HERE.md
+          test -f evidence/PUBLIC_CLAIMS_REGISTER.csv
+          test -f evidence/EVIDENCE_LEDGER.md
+          test -f validation/PILOT_001_PROTOCOL.md
+          test -f examples/WORKED_EXAMPLE_001.md
+          test -f reports/REPORT_INDEX.md

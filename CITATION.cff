@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "P.Ai.O.S. - Personal AI Operating System"
+message: "If you use this repository, cite it using this metadata."
+type: dataset
+authors:
+  - family-names: Howard
+    given-names: Sheldon
+repository-code: "https://github.com/havmeaning/personal-ai-operating-system"
+abstract: "A documented personal AI operating method for converting fragmented information and lived activity into structured decisions, governed evidence, executable actions, and reusable reports."
+date-released: 2026-07-12

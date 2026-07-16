@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">P.Ai.O.S. Operating Loop</title>
+  <desc id="desc">Capture, structure, analyze, decide, execute, report, and extract doctrine.</desc>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #17202a; }
+    .box { fill: #f7f9fb; stroke: #2f4858; stroke-width: 2; rx: 6; }
+    .arrow { stroke: #2f4858; stroke-width: 2; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2f4858" />
+    </marker>
+  </defs>
+  <rect class="box" x="20" y="70" width="105" height="54"/>
+  <text x="72" y="102" text-anchor="middle" font-size="15">Capture</text>
+  <line class="arrow" x1="125" y1="97" x2="160" y2="97"/>
+  <rect class="box" x="160" y="70" width="105" height="54"/>
+  <text x="212" y="102" text-anchor="middle" font-size="15">Structure</text>
+  <line class="arrow" x1="265" y1="97" x2="300" y2="97"/>
+  <rect class="box" x="300" y="70" width="105" height="54"/>
+  <text x="352" y="102" text-anchor="middle" font-size="15">Analyze</text>
+  <line class="arrow" x1="405" y1="97" x2="440" y2="97"/>
+  <rect class="box" x="440" y="70" width="105" height="54"/>
+  <text x="492" y="102" text-anchor="middle" font-size="15">Decide</text>
+  <line class="arrow" x1="545" y1="97" x2="580" y2="97"/>
+  <rect class="box" x="580" y="70" width="105" height="54"/>
+  <text x="632" y="102" text-anchor="middle" font-size="15">Execute</text>
+  <line class="arrow" x1="685" y1="97" x2="720" y2="97"/>
+  <rect class="box" x="720" y="70" width="105" height="54"/>
+  <text x="772" y="102" text-anchor="middle" font-size="15">Report</text>
+  <path class="arrow" d="M772 124 C772 178 72 178 72 126" fill="none"/>
+  <text x="450" y="190" text-anchor="middle" font-size="14">Extract doctrine and feed the next operation</text>
+</svg>
