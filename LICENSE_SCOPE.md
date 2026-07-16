@@ -1,18 +1,40 @@
 # License Scope Note
 
-This repository currently contains an MIT `LICENSE` file followed by an additional intellectual-property restriction covering written frameworks, research texts, and conceptual systems.
+This note clarifies the intended public licensing boundary for this repository. It is not legal advice and does not create a legal guarantee.
 
-This creates a scope ambiguity: the MIT license grants broad rights for "Software," while the later note appears to reserve rights over methodology and written framework content.
+## Software Source Code
 
-Until reviewed, this repository should treat the existing license text as preserved historical repository state and avoid making new legal claims about what is or is not licensed.
+The MIT license in `LICENSE` applies only to original software source code expressly identified as code in this repository.
 
-Recommended follow-up:
+At the time of this note, most repository contents are documentation, reports, templates, diagrams, product files, and governance artifacts rather than software source code.
 
-- distinguish software code, if any, from written methodology and research materials
-- distinguish documentation license from software license
-- clarify trademark and brand usage
-- clarify commercial methodology usage
-- document third-party asset treatment
-- decide whether separate licenses are needed for code and documentation
-- update repository notices only after legal or owner review
-- avoid combining contradictory permissions and restrictions in the same license file
+## Reserved Materials
+
+Unless a file contains a separate license, all rights are reserved for:
+
+- written methodology
+- documentation
+- reports
+- research text
+- templates
+- product files
+- audio
+- images
+- datasets
+- names
+- brand assets
+- P.Ai.O.S. method and framework materials
+
+Commercial reuse of reserved material requires prior written permission from the rights holder.
+
+## Third-Party Material
+
+Third-party material, if any, retains its original rights and license terms. Inclusion in this repository does not relicense third-party content.
+
+## Brand And Trademark Use
+
+Names, marks, and brand assets are not granted for endorsement, resale, certification, or commercial methodology use by the MIT software license.
+
+## Review Boundary
+
+This file is intended to resolve repository-scope ambiguity. It should be reviewed by the repository owner and qualified counsel before being treated as a final legal position.

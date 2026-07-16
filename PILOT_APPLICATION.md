@@ -1,25 +1,29 @@
 # Pilot Application
 
-Use this as the public entry point for controlled P.Ai.O.S. pilot interest.
+Use the public GitHub issue route for controlled P.Ai.O.S. pilot interest:
 
-## Applicant
+[Open a Pilot 001 application issue](https://github.com/havmeaning/personal-ai-operating-system/issues/new?template=pilot-application.md)
 
-- Name or organization:
-- Contact method:
-- Public-safe project description:
+## Public-Safe Application Only
 
-## Use Case
+The public application should include only:
 
-- What problem do you want to run through P.Ai.O.S.?
-- What outcome would be useful?
-- What is the bounded time window?
-- What source material is available?
+- public-safe use-case description
+- bounded measurable outcome
+- proposed time window
+- expected founder-support level
+- categories of material that must remain private
 
-## Constraints
+Do not post:
 
-- What must remain private?
-- What can be summarized publicly?
-- What support do you expect from the founder?
+- private records
+- contact details
+- credentials
+- participant data
+- protected source files
+- sensitive identifiers
+
+Shortlisted applicants will receive an appropriate private communication route. This repository does not publish an email address for pilot intake.
 
 ## Consent
 

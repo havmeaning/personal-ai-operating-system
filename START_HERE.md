@@ -75,3 +75,5 @@ Pilot 001 is designed to test whether the method transfers beyond founder use wi
 - [Outcome capture](validation/OUTCOME_CAPTURE.md)
 
 Primary call to action: apply to participate in the controlled P.Ai.O.S. pilot.
+
+Use the public GitHub issue route linked in `PILOT_APPLICATION.md`. Do not post private records, contact details, credentials, participant data, protected source files, or sensitive identifiers. Shortlisted applicants will receive an appropriate private communication route.

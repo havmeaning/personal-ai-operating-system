@@ -4,10 +4,20 @@ Source: private full archive reconstruction report, summarized here for public u
 
 ## Scope
 
-- Archive range: March 2023-July 2026
-- Corpus: 2,543 unique conversations
-- Analytical/report-like artifacts: 712 report-like or analytical conversation artifacts
+- Archive range: 2023-03-22 through 2026-07-10
+- Authoritative full-corpus count: 3,050 conversations
+- Authoritative node count: 46,891 nodes
+- Message-bearing nodes: 43,841
+- Authoritative content-bearing records: 29,591
+- Earlier reconstruction subset: 2,543 unique conversations
+- Earlier analytical classification: 712 report-like or analytical conversation artifacts
 - Status: ready for controlled external pilot
+
+## Count Reconciliation
+
+The authoritative full-corpus conversation count is 3,050. The earlier 2,543-conversation figure is preserved as a narrower reconstruction or analytical subset from the archive-reconstruction process, not as the complete corpus total. The 712 figure is an earlier analytical/report-like classification within that method.
+
+These figures answer different questions and must not be presented as interchangeable corpus totals.
 
 ## Reconstructed Operating Loop
 

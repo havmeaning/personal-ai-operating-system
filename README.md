@@ -78,8 +78,12 @@ Evidence labels used in this repository:
 - [P] proposed
 - [S] superseded
 - [V-OCR] read from native dashboard screenshots and requiring live confirmation before external use
+- [D] documented but not yet fully transcribed
+- [A] operator-attributed context, not independently verified
 
 AI ratings, summaries, and praise are not independent validation. They may help interpret records, but they do not establish transferability, causality, enterprise readiness, or commercial validation.
+
+Pilot applications should be submitted as public-safe GitHub issues only. Do not post private records, contact details, credentials, participant data, protected source files, or sensitive identifiers. Shortlisted applicants will receive an appropriate private communication route.
 
 ## Public-Safety Boundary
 

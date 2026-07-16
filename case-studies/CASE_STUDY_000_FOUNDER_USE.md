@@ -34,10 +34,15 @@ Founder-use evidence spans multiple development phases, with public-safe summari
 
 Public-safe measurable examples include:
 
-- 2,543 unique conversations in the reconstructed archive
-- 712 report-like or analytical conversation artifacts
+- 3,050 conversations in the authoritative full ChatGPT archive corpus
+- 46,891 total nodes, including 43,841 message-bearing nodes
+- 29,591 authoritative content-bearing records
+- 2,543 unique conversations in an earlier, narrower reconstruction subset
+- 712 report-like or analytical conversation artifacts in an earlier analytical classification
 - platform-performance baselines in the marketing intelligence report
 - a documented capture-bottleneck decision
+
+The 3,050, 2,543, and 712 figures answer different questions. They must not be treated as interchangeable corpus totals.
 
 ## System Failures
 

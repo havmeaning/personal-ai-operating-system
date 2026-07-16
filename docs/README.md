@@ -38,7 +38,7 @@ The full mission, field, and after-action source archive is intentionally not pu
 ## Research
 
 - [Partial archive timeline](../research/archive_timeline.md)
-- [White paper material](white-paper/A%20Comparative%20Evaluation%20for%20Personal-Scale%20Knowledge%20Work)
+- [White paper material](white-paper/agentos-frameworks-2026.md)
 
 ## Status
 
