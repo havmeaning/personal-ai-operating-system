@@ -60,6 +60,7 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 - [Report index](reports/REPORT_INDEX.md)
 - [Source manifest](evidence/SOURCE_MANIFEST.csv)
 - [Founder case study 000](case-studies/CASE_STUDY_000_FOUNDER_USE.md)
+- [Hiring Intelligence methodology and emerging case study](case-studies/HIRING_INTELLIGENCE_PROJECT.md)
 - [Product bundle](product/)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Roadmap](ROADMAP.md)
