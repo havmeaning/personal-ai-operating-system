@@ -140,7 +140,7 @@ The following hashes identify controlled or previously frozen supporting artifac
 | `Grok_March14_Verdict_FROZEN.md` | `58b29314c57d763eddedc87284142b9efaa2e31a988c50ed68a0043e4e96223c` |
 | `PAiOS_Complete_Package.zip` | `61cad70ce8e0d1985c22214bbd942378ece1f035bc04e907b93510d4f85df04d` |
 
-When this document is added to GitHub, calculate its exact committed-file SHA-256 and add it to `evidence/SOURCE_MANIFEST.csv`. Also update the root README, evidence ledger, public claims register, and changelog in the same pull request.
+The committed-file SHA-256 for this document is recorded in `evidence/SOURCE_MANIFEST.csv`. Related claims, evidence boundaries, and revision history are maintained in the evidence ledger, public claims register, and changelog.
 
 ## Published Under
 

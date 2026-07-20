@@ -5,3 +5,4 @@ SRC-003,Operational Report Archive Public Summary,v1.0,2026-07-12,Report-system 
 SRC-004,Partial Archive Timeline,v1.0-public,2026-07-12,Research note,Public,research/archive_timeline.md,Markdown summary,1384CD741D641D2119AC60CF355662842EB6A4FDDE5400D51220B5735EC64C05,private source timeline,Public-safe summary
 SRC-005,Private source archive,controlled,2023-2026,Source archive,Private,not published,Private records,not published,none,Protected
 SRC-006,P.Ai.O.S. Complete Operator System Bundle,complete,2026-05-24,Product artifact,Public,product/P_Ai_O_S_Complete_Operator_System.zip,ZIP bundle,B68FDF37080C171605A745C4A851ED7D0B3EDB5F3C74C287DA5702E8150E6FF9,none,Public product bundle
+SRC-007,Cross-Platform Architecture History,v1.0,2026-07-16,Architecture history,Public,docs/ARCHITECTURE_HISTORY.md,Markdown history,BB3FBD1081E0A4432F74F5CFA45BD559075771047066177D88BC41F3B1822C5A,controlled provenance artifacts,Public-safe synthesis; controlled sources private

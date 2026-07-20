@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Completed architecture-history governance by recording final SHA-256 provenance, linking the history from the README, registering bounded evidence and public claims, and replacing the stale publication instruction.
 - Added proof-system structure: start guide, worked example, claims register, evidence ledger, validation package, templates, and founder case study.
 - Added public report index and privacy controls.
 - Added marketing intelligence report v1.3.

@@ -62,6 +62,7 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 - [Founder case study 000](case-studies/CASE_STUDY_000_FOUNDER_USE.md)
 - [Product bundle](product/)
 - [Architecture](docs/ARCHITECTURE.md)
+- [Cross-platform architecture history](docs/ARCHITECTURE_HISTORY.md)
 - [Roadmap](ROADMAP.md)
 
 ## Operational-Window Clarification
