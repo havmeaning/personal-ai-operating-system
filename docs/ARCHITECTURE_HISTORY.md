@@ -108,7 +108,7 @@ No automated model-to-model connection was identified in the searched ChatGPT, G
 3. The operator manually carried the relevant artifact to the next platform.
 4. The operator approved or redirected the resulting work.
 
-**Bounded public claim:** All observed transfers between AI model interfaces were manually initiated by the operator. Automation was applied downstream to storage, packaging, and distribution—not to direct model-to-model transfer. [V]/[AI]
+**Bounded public claim:** No automated model-to-model connection was identified in the searched archives. Documented cross-model handoffs are consistent with operator initiation, while identified automation operated downstream in storage, packaging, or distribution. [V]/[AI]
 
 ## What This History Does Not Claim
 
