@@ -108,7 +108,7 @@ No automated model-to-model connection was identified in the searched ChatGPT, G
 3. The operator manually carried the relevant artifact to the next platform.
 4. The operator approved or redirected the resulting work.
 
-**Bounded public claim:** All observed transfers between AI model interfaces were manually initiated by the operator. Automation was applied downstream to storage, packaging, and distribution—not to direct model-to-model transfer. [V]/[AI]
+**Bounded public claim:** No automated model-to-model connection was identified in the searched archives. Documented cross-model handoffs are consistent with operator initiation, while identified automation operated downstream in storage, packaging, or distribution. [V]/[AI]
 
 ## What This History Does Not Claim
 
@@ -140,7 +140,7 @@ The following hashes identify controlled or previously frozen supporting artifac
 | `Grok_March14_Verdict_FROZEN.md` | `58b29314c57d763eddedc87284142b9efaa2e31a988c50ed68a0043e4e96223c` |
 | `PAiOS_Complete_Package.zip` | `61cad70ce8e0d1985c22214bbd942378ece1f035bc04e907b93510d4f85df04d` |
 
-When this document is added to GitHub, calculate its exact committed-file SHA-256 and add it to `evidence/SOURCE_MANIFEST.csv`. Also update the root README, evidence ledger, public claims register, and changelog in the same pull request.
+The committed-file SHA-256 for this document is recorded in `evidence/SOURCE_MANIFEST.csv`. Related claims, evidence boundaries, and revision history are maintained in the evidence ledger, public claims register, and changelog.
 
 ## Published Under
 

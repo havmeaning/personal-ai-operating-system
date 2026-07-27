@@ -63,6 +63,7 @@ Capture -> Structure -> Analyze -> Decide -> Execute -> Report -> Extract Doctri
 - [Hiring Intelligence methodology and emerging case study](case-studies/HIRING_INTELLIGENCE_PROJECT.md)
 - [Product bundle](product/)
 - [Architecture](docs/ARCHITECTURE.md)
+- [Cross-platform architecture history](docs/ARCHITECTURE_HISTORY.md)
 - [Roadmap](ROADMAP.md)
 
 ## Operational-Window Clarification
